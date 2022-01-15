@@ -1,7 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/54525741/149302774-07732e60-26d4-46bf-9529-825563af5d45.png)
-
-# AAYUSHSAHU.COM
-
 My portfolio website powered by:
 
 - NextJS with TypeScript
